@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/meyer9/feudal#readme",
   "dependencies": {
-    "bcrypt": "^1.0.2",
     "body-parser": "^1.17.1",
     "cookie-parser": "^1.4.3",
     "dotenv": "^4.0.0",
